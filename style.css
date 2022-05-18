@@ -1,0 +1,25 @@
+body{
+    background-color: #AFD275;
+}
+label{
+    color: #7E685A;
+}
+h1,h3{
+    color: #E7717D;
+}
+
+
+
+#cv-tempelate{
+  display: none;
+}
+.myimg{
+    
+    border-radius: 50%;
+    width: 200px;
+}
+.back{
+    background-color: aqua;
+}
+
+
